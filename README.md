@@ -1,4 +1,3 @@
-<img align="right" height="590em" src=""/>
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hello, I'm André Navarro</h1>
 
 <br>
