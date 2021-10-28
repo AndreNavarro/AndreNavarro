@@ -25,15 +25,6 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<!-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![php](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp; -->
-
 <br><br>
 
 ## 📈  &nbsp;Status
