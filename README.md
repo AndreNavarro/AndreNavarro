@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔭 I’m currently working with Backend Developer Jr. at Bis2Bis.
+- 🔭 I’m currently working as a Backend Developer Jr. at Bis2Bis.
 
 - 🌱 I’m currently learning PHP, Node, React, React Native and some other techs.
 
