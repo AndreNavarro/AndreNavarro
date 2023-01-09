@@ -2,13 +2,15 @@
 
 <br>
 
-- 🔭 I’m currently working as a Backend Developer Jr. at Bis2Bis.
+- 🔭 I’m currently finding a new job.
 
 - 🌱 I’m currently learning PHP, Node, React, React Native and some other techs.
 
 - 🎓 Graduated and Post-graduated - Web & Mobile Development.
 
 - 🎲 Hobbies: Practice running, read books, watch series and learn new things programming.
+
+- 👉 Talking a little bit more about me, as you can see in some of my projects, I like to participate of bootcamps which I can always extract something new and take notes of concepts and make improvements to learn more.
 
 <br><br>
 
